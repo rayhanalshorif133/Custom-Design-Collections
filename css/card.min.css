@@ -1,0 +1,139 @@
+.card-1{
+    display: inline-block;
+    background-color: #fff;
+    padding: 57px 81px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 37px rgb(8 21 66 / 5%);
+    box-shadow: 0 0 37px rgb(8 21 66 / 5%);
+    margin: 10px;
+    height: auto;
+    width: auto;
+    text-align: center;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.card-1:hover {
+    -webkit-box-shadow: 0 0 37px rgb(8 21 66 / 15%);
+    box-shadow: 0 0 37px rgb(8 21 66 / 15%);
+}
+
+@media (min-width: 768px)
+{
+    .bd-clipboard {
+    display: block;
+    }
+}
+
+.bd-clipboard {
+    position: relative;
+    float: right;
+}
+.highlight {
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: #f8f9fa;
+}
+.highlight pre {
+    margin-bottom: 0;
+    font-size: 87.5%;
+    line-height: 1.45;
+    overflow: auto;
+    word-wrap: normal;
+}
+@media (min-width: 576px)
+{
+    .highlight {
+    margin-right: 0;
+    margin-left: 0;
+}
+}
+.highlight .c1 {
+    color: #998;
+    font-style: italic;
+}
+.highlight .err {
+    color: #a61717;
+    background-color: #e3d2d2;
+}
+.highlight .k {
+    color: #000;
+    font-weight: bold;
+}
+.highlight .o {
+    color: #000;
+    font-weight: bold;
+}
+.highlight .cm {
+    color: #998;
+    font-style: italic;
+}
+.highlight .cp {
+    color: #999;
+    font-weight: bold;
+}
+.highlight .c {
+    color: #999;
+    font-weight: bold;
+}
+.highlight .ch {
+    color: #999;
+    font-weight: bold;
+}
+.highlight .cd {
+    color: #999;
+    font-weight: bold;
+}
+.highlight .cs {
+    color: #999;
+    font-weight: bold;
+}
+.highlight .gd {
+    color: #000;
+    background-color: #fdd;
+}
+
+.highlight .ge {
+    font-style: italic;
+}
+.highlight .gr {
+    color: #a00;
+}
+.highlight .gh {
+    color: #999;
+}
+.highlight .gi {
+    color: #000;
+    background-color: #dfd;
+}
+.highlight .go {
+    color: #888;
+}
+
+.highlight .gp {
+    color: #555;
+}
+.highlight .gu {
+    color: #aaa;
+}
+.highlight .gt {
+    color: #a00;
+}
+.highlight .kc {
+    color: #000;
+    font-weight: bold;
+}
+.highlight .kd {
+    color: #000;
+    font-weight: bold;
+}
+.highlight .kn {
+    color: #000;
+    font-weight: bold;
+}
+.highlight .kp {
+    color: #000;
+    font-weight: bold;
+}
+
+
